@@ -1,0 +1,6 @@
+﻿{
+    "name" : "テスト難易度表",
+    "symbol" : "",
+    "data_url" : "./score.json",
+    "level_order" : ["その1", "その2"]
+}
